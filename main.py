@@ -1,9 +1,9 @@
-from pet import Pet
+from digital_pet import Pet
 
 def main():
     # Create a new pet
     pet_name = input("Name your pet: ")
-    my_pet = Pet(omera)
+    my_pet = Pet(pet_name)
     
     print(f"\nWelcome, {pet_name}! Let's take care of your new digital pet!")
     
