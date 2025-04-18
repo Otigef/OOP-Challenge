@@ -9,14 +9,14 @@ def main():
     
     while True:
         print("\nOptions:")
-        print("1. Feed")
-        print("2. Put to sleep")
-        print("3. Play")
-        print("4. Check status")
-        print("5. Teach trick")
-        print("6. Show tricks")
-        print("7. Quit")
-        
+        print("1. 🥩 Feed")
+        print("2. 🛌 Put to sleep")
+        print("3. 🎾 Play")
+        print("4. 📊 Check status")
+        print("5. 🧠 Teach trick")
+        print("6. 🎩 Show tricks")
+        print("7. ❌ Quit")
+                
         choice = input("\nChoose an action (1-7): ")
         
         if choice == '1':
